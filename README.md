@@ -4,10 +4,10 @@
 ## October 30, 2025
 
 ## Introduction
-This repository contains the updated scripts and files of work done for Clark University's Advanced Geospatial Analytics with Python. The script files contain reproducible code that can be run and manipulated using the environment file accompanied with the repository. These script help understand how to build an efficient pipeline to calculate time series of NDWI values from Sentinel-2 data. 
+This repository contains the updated scripts and files of work done for Clark University's Advanced Geospatial Analytics with Python course. The script files contain reproducible code that can be run and manipulated using the environment file accompanied with the repository. These script help understand how to build an efficient pipeline to calculate time series of NDWI values from Sentinel-2 data. 
 
 ## Installation (Container)
-To run the assignment scripts within a running container, the user should follow the instructions below:
+To run the scripts within a running container, the user should follow the instructions below:
 - Ensure docker is correctly configured on your local machine 
 - Change working directory within the terminal to be within the assignment-5 repository. 
 - Run the following command to build an image: 
