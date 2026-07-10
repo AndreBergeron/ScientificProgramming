@@ -1,0 +1,14 @@
+name: assignment5env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.13
+  - jupyterlab = 4.4.4
+  - pystac-client=0.9.0
+  - matplotlib
+  - dask=2025.10.0
+  - dask-labextension
+  - distributed=2025.10.0
+  - stackstac=0.5.1
+  - rioxarray=0.19.0
+  - shapely=2.1.2
